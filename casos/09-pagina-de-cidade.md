@@ -187,7 +187,7 @@ A entrega tem três partes:
 
 - **Um repositório Git com o código e a documentação da solução.** O README deve explicar como instalar o que for necessário e executar a aplicação, além das suas principais decisões e do que ficou pendente.
 - **A página publicada em algum endereço que possamos abrir.** Qualquer serviço gratuito serve.
-- **Um vídeo de até 30 minutos explicando a solução.** Percorra a página, mostre os trechos de código mais importantes e conte por que escolheu essa abordagem.
+- **Um vídeo de até 30 minutos, gravado em inglês, explicando a solução.** Percorra a página, mostre os trechos de código mais importantes e conte por que escolheu essa abordagem.
 
 O desenho pode ser entregue como link da ferramenta ou como imagens dentro do repositório.
 
@@ -203,7 +203,7 @@ Não esperamos uma suíte de testes neste caso. Se você escreveu algum teste, c
 
 ### Vídeo explicando a solução
 
-A gravação deve nos ajudar a acompanhar seu raciocínio. Percorra a página como se estivesse apresentando para quem tomou a decisão de construí-la, explicando por que ela está nessa ordem e o que cada parte tenta resolver. Exercite o simulador em um cenário diferente do exemplo deste documento, diga o resultado que espera antes de calcular e compare com o que aconteceu.
+O vídeo deve ser gravado em inglês, do início ao fim. A gravação deve nos ajudar a acompanhar seu raciocínio. Percorra a página como se estivesse apresentando para quem tomou a decisão de construí-la, explicando por que ela está nessa ordem e o que cada parte tenta resolver. Exercite o simulador em um cenário diferente do exemplo deste documento, diga o resultado que espera antes de calcular e compare com o que aconteceu.
 
 Ao percorrer o código, conte por que escolheu uma abordagem, que alternativa considerou e onde a solução tem limites. Se algo não funcionou, vale mostrar como investigou.
 
