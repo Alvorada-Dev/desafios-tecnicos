@@ -22,7 +22,7 @@ Sugerimos dedicar até quatro horas ao código, aos testes e à documentação. 
 ## O que entregar
 
 - **Um repositório Git com o código, os testes e a documentação da solução**, incluindo as instruções para instalar, executar e conferir o projeto.
-- **Um vídeo de até 30 minutos explicando a solução**, com uma demonstração do funcionamento e uma conversa sobre suas escolhas e os principais trechos de código.
+- **Um vídeo de até 30 minutos explicando em inglês a solução**, com uma demonstração do funcionamento e uma conversa sobre suas escolhas e os principais trechos de código.
 
 Compartilhe os links do repositório e do vídeo pelo canal do processo. Sua solução deve ficar no seu próprio repositório, sem abrir um PR neste catálogo.
 
