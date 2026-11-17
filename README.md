@@ -1,6 +1,6 @@
 # Desafios técnicos da Alvorada
 
-Escolha um dos oito casos abaixo e construa uma solução com as ferramentas que você conhece melhor. Você pode se concentrar na interface, no back-end, na arquitetura, nos algoritmos ou nos dados. O importante é implementar as regras do desafio e mostrar como conferiu o resultado.
+Escolha um dos casos abaixo e construa uma solução com as ferramentas que você conhece melhor. Você pode se concentrar na interface, no back-end, na arquitetura, nos algoritmos ou nos dados. O importante é implementar as regras do desafio e mostrar como conferiu o resultado.
 
 Cada documento traz tudo de que você precisa, desde o problema até as instruções de entrega. Basta abrir o caso escolhido.
 
@@ -14,6 +14,8 @@ Cada documento traz tudo de que você precisa, desde o problema até as instruç
 - [Caso 06 — Avaliador de predições e abstenções](casos/06-avaliador-de-predicoes.md)
 - [Caso 07 — Monitor de sensores com histerese](casos/07-monitor-de-sensores.md)
 - [Caso 08 — Executor de tarefas com dependências](casos/08-executor-de-tarefas.md)
+- [Caso 09 — Página de cidade para uma instaladora de energia solar](casos/09-pagina-de-cidade.md)
+- [Caso 10 — Pipeline de vendas e conciliação de pagamentos](casos/10-pipeline-de-dados.md)
 
 ## Como funciona
 
